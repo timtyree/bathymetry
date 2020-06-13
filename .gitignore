@@ -65,3 +65,5 @@ target/
 # Editor
 .vscode
 *.tsv
+*.dirlock
+*.lock
