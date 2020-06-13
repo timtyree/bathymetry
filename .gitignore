@@ -64,3 +64,4 @@ target/
 
 # Editor
 .vscode
+*.tsv
